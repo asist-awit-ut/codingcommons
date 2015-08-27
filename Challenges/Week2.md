@@ -21,8 +21,12 @@ For those just getting started with the command line/terminal/bash the goal of t
 If you have never touched the command line, I highly suggest using Codecademy's intro to the command line. It takes about an hour to an hour and a half, but you can run through relevant commands to then use your computer's terminal.
 
 ##Resources
-Getting Started: https://www.codecademy.com/courses/learn-the-command-line
-For Linux users: http://community.linuxmint.com/tutorial/view/244
-Brushing Up on Basics: http://scf.rgaiacs.com/nightly/shell-novice/all-in-one.html
-Linux/Unix for HPC: https://portal.tacc.utexas.edu/-/linux-unix-basics-for-hpc
-From Data Wrangling with J. Howison: http://solstice.ischool.utexas.edu/projects/index.php?title=Introduction_to_the_Command_Line&gsearch=howison
+*Getting Started: https://www.codecademy.com/courses/learn-the-command-line
+
+*For Linux users: http://community.linuxmint.com/tutorial/view/244
+
+*Brushing Up on Basics: http://scf.rgaiacs.com/nightly/shell-novice/all-in-one.html
+
+*Linux/Unix for HPC: https://portal.tacc.utexas.edu/-/linux-unix-basics-for-hpc
+
+*From Data Wrangling with J. Howison: http://solstice.ischool.utexas.edu/projects/index.php?title=Introduction_to_the_Command_Line&gsearch=howison
