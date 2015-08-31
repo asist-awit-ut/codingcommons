@@ -1,12 +1,12 @@
 Sep 2 Week 1 - First meeting
 Sep 9 Week 2 - Command Line: installation for windows and learning basic commands.
-Sep 16 Week 3 - Command Line
-Sep 23 Week 4 - Coding Basics
+Sep 16 Week 3 - Guts of a Computer Training
+Sep 23 Week 4 - Wikipedia Training
 Sep 30 Week 5 - Getting Started with Python
-Oct 7 Week 6 - Workshop Prep
+Oct 7 Week 6 - Workshop Prep / Dry Run
 Oct 14 Week 7 - Git/GitHub Workshop
 Oct 21 Week 8 - Python 1
 Oct 28 Week 9 - Python2
 Nov 4 Week 10 - Python 3
-Nov 11 Week 11 - Python and API work
+Nov 11 Week 11 - Python applications
 Nov 18 Week 12 - Last Week/End of the semester meeting

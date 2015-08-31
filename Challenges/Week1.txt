@@ -1,5 +1,20 @@
-First meeting of the semester:
+Agenda for Fall Meeting
 
-What do we want to accomplish as part of coding commons?
+Fall Event - Git/GitHub
+  Need volunteer leaders
+    Have link to Google sheets sign up
+  Need attendees - spread the word
 
-What will the first few weeks look like?
+Volunteer Opportunities
+  Wikipedia (Saturday 9/26, 1-4pm)
+  Library Short Courses
+    Have an idea - pitch it and come up with a lesson plan -
+    remember this is a commitment that you must follow through - no dropping out
+      collecting all lesson plans on the GitHub page
+
+Coding Commons
+  Schedule
+    Week One - command line/terminal (how to and brush up skills), if you are already competent, come mentor your classmates or challenge yourself
+  Trainings
+    Week Two - coding questions/own projects 5-6p; The Guts of a Computer @6pm(Althea)
+    Week Three - coding questions/own projects5-6p; Wikipedia How-To @6pm(Kristin)
