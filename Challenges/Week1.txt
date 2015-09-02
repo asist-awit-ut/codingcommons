@@ -1,20 +1,35 @@
 Agenda for Fall Meeting
 
+[x]Introductions - Leadership
+[x]Social Media - handles, facebook and twitter
+
 Fall Event - Git/GitHub
-  Need volunteer leaders
+  partnering with the learning commons
+  part of the official learning workshop series
+  speakers - how we have split up the
+  why git - collaborate, diff is the best thing ever
+  [x]Need volunteer leaders
     Have link to Google sheets sign up
-  Need attendees - spread the word
+  [x]Need attendees - spread the word
 
 Volunteer Opportunities
-  Wikipedia (Saturday 9/26, 1-4pm)
-  Library Short Courses
-    Have an idea - pitch it and come up with a lesson plan -
+  [x]Wikipedia (Saturday 9/26, 1-4pm)
+    in conjunction with the Asian American Resource Center
+    We are helping with technical editing skills - volunteer assist edition assistance
+    Present workshops - editing and content
+  [x]Library Short Courses
+    Have an idea - pitch it and come up with a lesson plan - teach in the new space
+    Present in introductory web - tools and resources
     remember this is a commitment that you must follow through - no dropping out
       collecting all lesson plans on the GitHub page
 
 Coding Commons
-  Schedule
+  [x]Schedule
     Week One - command line/terminal (how to and brush up skills), if you are already competent, come mentor your classmates or challenge yourself
   Trainings
-    Week Two - coding questions/own projects 5-6p; The Guts of a Computer @6pm(Althea)
-    Week Three - coding questions/own projects5-6p; Wikipedia How-To @6pm(Kristin)
+    [x]Week Two - coding questions/own projects 5-6p; The Guts of a Computer @6pm(Althea)
+    [x]Week Three - coding questions/own projects5-6p; Wikipedia How-To @6pm(Kristin)
+
+Questions/Comments
+  -good to do coding commons prior to database management
+  - 
